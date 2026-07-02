@@ -61,11 +61,6 @@ Become a Software Engineer and build impactful AI-powered applications.
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Saniya2020225&theme=tokyonight)
-
----
 
 # 📈 Contribution Graph
 
