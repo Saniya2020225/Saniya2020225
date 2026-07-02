@@ -17,6 +17,15 @@
 - Artificial Intelligence
 - Cybersecurity
 - Git & GitHub
+  
+
+## 🚀 What I'm Building & Achievements
+
+- 🎓 Learning Data Structures & Algorithms in Java
+- 💻 Building Frontend Projects using HTML, CSS & JavaScript
+- 🤖 Working on AI-based applications
+- 🔐 Exploring Cybersecurity fundamentals
+- 📚 Continuously improving problem-solving skills
 
 🎯 Goal:
 Become a Software Engineer and build impactful AI-powered applications.
@@ -31,11 +40,57 @@ Become a Software Engineer and build impactful AI-powered applications.
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
----
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) 
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### Design Tools
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva) 
+
+### Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+### Interests
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+## 🎯 Current Roadmap (2026)
+
+```yaml
+Phase_1:
+  Timeline: Ongoing
+  Focus: Data Structures & Algorithms (Java)
+  Goal: Strengthen problem-solving and coding skills
+  Status: 🚀 In Progress
+
+Phase_2:
+  Timeline: 2026
+  Focus: Frontend Development + AI
+  Goal: Build real-world AI-powered web applications
+  Status: 🔥 Active
+
+Phase_3:
+  Timeline: Future
+  Focus: Cybersecurity & Open Source
+  Goal: Contribute to open source and become a Software Engineer
+  Status: 📚 Preparing
+```
 
 # 🚀 Featured Projects
 
