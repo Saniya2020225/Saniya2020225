@@ -35,7 +35,9 @@ Become a Software Engineer and build impactful AI-powered applications.
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Saniya2020225"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>  <a href="https://www.linkedin.com/in/saniyakushwaha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>  <a href="https://www.instagram.com/kushwaha_0108?igsh=NW02cHV5dzNsOWln"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>  <a href="https://discord.gg/saP4rYUD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"></a>  <a href="https://www.youtube.com/@sxnix2794"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"></a>
+<a href="https://saniya2020225.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>  <a href="https://github.com/Saniya2020225"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>  <a href="https://www.linkedin.com/in/saniyakushwaha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>  <a href="https://www.instagram.com/kushwaha_0108?igsh=NW02cHV5dzNsOWln"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>  <a href="https://discord.gg/saP4rYUD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"></a>  <a href="https://www.youtube.com/@sxnix2794"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"></a>
 </p>
 
 ---
