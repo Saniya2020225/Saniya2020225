@@ -28,7 +28,7 @@
 - 📚 Continuously improving problem-solving skills
 
 🎯 Goal:
-Become a Software Engineer and build impactful AI-powered applications.
+Become a Frontend Developer and build impactful AI-powered applications.
 
 ---
 
