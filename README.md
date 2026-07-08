@@ -32,7 +32,7 @@ Become a Frontend Developer and build impactful AI-powered applications.
 
 ---
 
- ##🎓 Learning Platforms
+ ## 🎓 Learning Platforms
 - Cisco Networking Academy
 - LearnVern
 - Knowledge Gate
