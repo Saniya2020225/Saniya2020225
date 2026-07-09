@@ -143,6 +143,6 @@ Phase_3:
 <img src="https://komarev.com/ghpvc/?username=Saniya2020225&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 </p>
 
-<h3 align="center">
+<h2 align="center">
 ⭐ Thanks for visiting my profile! ⭐
-</h3>
+</h2>
