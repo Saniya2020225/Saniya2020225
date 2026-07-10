@@ -7,9 +7,11 @@
 
 ---
 
+
 # 💫 About Me
 
 💻 Passionate Frontend Developer with a strong interest in Artificial Intelligence and Cybersecurity.
+
 
 🌱 Currently Learning:
 - Frontend Development
